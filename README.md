@@ -1,1 +1,1 @@
-Komentarz2
+Komentarz
